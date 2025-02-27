@@ -54,18 +54,6 @@ The dataset consists of various features related to real estate properties:
 | **Machine Learning** | `scikit-learn` |
 | **Feature Engineering** | `ShuffleSplit`, `GridSearchCV` |
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
-### 2️⃣ Run the Python Script or Jupyter Notebook
-```sh
-python real_estate_price_prediction.py
-```
-Or open `real_estate_price_prediction.ipynb` and run all cells.
 
 ## 📌 Results & Insights
 - Linear Regression provided the best performance for price prediction.
@@ -81,10 +69,6 @@ This model provides a solid foundation for real estate price prediction and can 
 - Add **Time-Series Analysis** to track market trends.
 - Apply **Deep Learning models** for better feature learning.
 
-## 📩 Contact
-If you have any questions or suggestions, feel free to reach out!
 
-✉️ Email: `mukulmanav0@gmail.com`  
-📌 GitHub: [mukulmanav](https://github.com/mukulmanav)
 
 🚀 **Happy Coding!** 🎉
